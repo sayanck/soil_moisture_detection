@@ -1,0 +1,7 @@
+learn and implement specifically the Arduino part felt impossible to us for an instance but we successfully overcame it during our hackathon.
+
+Accomplishments that we're proud of
+We are proud to achieve finishing the project on time which was like touching the sky to us but we finally completed it. It is totally a new technology developed by us which will be running on our own made server only and not on any other third party server. It is very efficient and helpful in several ways. Also it targets Sustainable Development Goal 13 (SDG 13) Which is well maintained use of natural things and by this product we can accurately save water and use water efficiently the amount needed. Also it is providing profit in some or the other way to the people included in agricultural sector in the above mentioned ways, thus it is also objectifying on Sustainable Development Goal 1 (SDG 1) that is no poverty.
+
+What we learned
+Technically and non-technically we have learnt a lot during this project. Technically we learnt about the use of NodeMCU and its application, we learnt about relay, we got to know about Arduino, learnt new modules in python and gained more knowledge about the language and last but not the least we have gained more work experience with xampp, MySQL and apache. Non-technically we have learnt about the amazing functioning of the team coordination both physically and mentally and time management too.
